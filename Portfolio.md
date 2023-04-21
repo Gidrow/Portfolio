@@ -1,6 +1,6 @@
 # **Основы тестирования**
 
-**Создание Чек-листов:**
+**Создание Чек-листа:**
 https://docs.google.com/spreadsheets/d/1zgMhXrcXxCY0PvS2i-Uc3RgMMq4gIh5e/edit?usp=sharing&ouid=116755993091461994761&rtpof=true&sd=true
 
 **Создание Тест-кейсов:**
