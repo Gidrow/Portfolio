@@ -12,6 +12,8 @@ https://docs.google.com/spreadsheets/d/1MyxhQRMX15GysjTxsmb27gI8KUjLzNX3/edit?us
 **Создание Чек-листа, Тест-кейсов, Баг-репортов:** <br/>
 https://docs.google.com/spreadsheets/d/1JxGqippSusZKOx-h-qY8AcoHToY-AbHNvXszahm_Iqc/edit?usp=sharing
 
+**Составление отчета о тестировании:** <br/>
+https://docs.google.com/spreadsheets/d/1JI69W2-83f-UEZgU0tx4_hDgaWjpOfwFyUP2obkkh2k/edit?usp=sharing
 
 
 # **Тест-дизайн и тест-аналитика**
@@ -34,8 +36,6 @@ https://docs.google.com/spreadsheets/d/1_kxOp5vGo9snKbzJzI0krjQHjlxb_dUCzcI8PA9v
 **Тестирование по пользовательским сценариям:** <br/>
 https://docs.google.com/spreadsheets/d/1eu30o3SSfNaxIguKWR74bfaXZ5KG0Z1Y2ZwZh8xeuv4/edit?usp=sharing
 
-**Составление отчета о тестировании:** <br/>
-https://docs.google.com/spreadsheets/d/1JI69W2-83f-UEZgU0tx4_hDgaWjpOfwFyUP2obkkh2k/edit?usp=sharing
 
 
 
