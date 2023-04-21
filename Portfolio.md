@@ -21,11 +21,12 @@ https://docs.google.com/spreadsheets/d/1JI69W2-83f-UEZgU0tx4_hDgaWjpOfwFyUP2obkk
 **Классы эквивалентности:** <br/>
 https://docs.google.com/spreadsheets/d/18OXAe0g1XZ650_C1GwZvOCZaf2pFGUiIRQ-xhd8YwO8/edit?usp=sharing
 
+**Граничные значения и доменный анализ:** <br/>
+https://docs.google.com/spreadsheets/d/1cjaWp5x_FnLi-Mqf_ewxJo_WnmSmgUEhAf3ur6nx2N8/edit?usp=sharing
+
 **Попарное тестирование(pairwise):** <br/>
 https://docs.google.com/spreadsheets/d/1MkKp-uKxROIOorFXlnXuuOl11tFova1MQ8B0A01XZu4/edit?usp=sharing
 
-**Граничные значения и доменный анализ:** <br/>
-https://docs.google.com/spreadsheets/d/1cjaWp5x_FnLi-Mqf_ewxJo_WnmSmgUEhAf3ur6nx2N8/edit?usp=sharing
 
 **Таблицы переходов состояний:** <br/>
 https://docs.google.com/spreadsheets/d/1KkZJWunYPwG3rl1Ibhb3aqMJVamx9BiZ_a3ojjtdUaw/edit?usp=sharing
