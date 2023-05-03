@@ -15,6 +15,8 @@ https://docs.google.com/spreadsheets/d/1JxGqippSusZKOx-h-qY8AcoHToY-AbHNvXszahm_
 **Составление отчета о тестировании:** <br/>
 https://docs.google.com/spreadsheets/d/1JI69W2-83f-UEZgU0tx4_hDgaWjpOfwFyUP2obkkh2k/edit?usp=sharing
 
+https://docs.google.com/document/d/1DbLSxnJ-fVP05kfKySo6vG7F-WkSBt7rHPgimS5PwGY/edit
+
 
 # **Тест-дизайн и тест-аналитика**
 
