@@ -18,7 +18,7 @@ https://docs.google.com/spreadsheets/d/1JI69W2-83f-UEZgU0tx4_hDgaWjpOfwFyUP2obkk
 https://docs.google.com/document/d/1DbLSxnJ-fVP05kfKySo6vG7F-WkSBt7rHPgimS5PwGY/edit
 
 
-# **Тест-дизайн и тест-аналитика**
+# **Тест-дизайн**
 
 **Классы эквивалентности:** <br/>
 https://docs.google.com/spreadsheets/d/18OXAe0g1XZ650_C1GwZvOCZaf2pFGUiIRQ-xhd8YwO8/edit?usp=sharing
