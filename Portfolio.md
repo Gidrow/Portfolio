@@ -36,7 +36,7 @@ https://docs.google.com/spreadsheets/d/1KkZJWunYPwG3rl1Ibhb3aqMJVamx9BiZ_a3ojjtd
  **Таблицы принятия решений:** <br/>
 https://docs.google.com/spreadsheets/d/1_kxOp5vGo9snKbzJzI0krjQHjlxb_dUCzcI8PA9vM5Y/edit?usp=sharing
 
-**Тестирование по пользовательским сценариям:** <br/>
+**Тестирование по пользовательским сценариям:**  <br/>
 https://docs.google.com/spreadsheets/d/1eu30o3SSfNaxIguKWR74bfaXZ5KG0Z1Y2ZwZh8xeuv4/edit?usp=sharing
 
 
